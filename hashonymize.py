@@ -33,7 +33,7 @@ class Logger:
 
 def get_options():
     description = "Turn your hashcat formatted hashes files into anonymized files for offline but online cracking (" \
-                  "i.e. Google Collab for example) "
+                  "i.e. Google Colab for example) "
     epilog = ""
 
     parser = argparse.ArgumentParser(
