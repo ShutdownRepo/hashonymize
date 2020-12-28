@@ -31,4 +31,4 @@ setup(
     scripts=['hashonymize']
 )
 
-os.remove('uberfile')
+os.remove('hashonymize')
