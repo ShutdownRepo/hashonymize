@@ -1,6 +1,6 @@
 # Hashonymize
 
-This smol tool is aimed at anonymizing hashes files for offline but online cracking like Google Collab for instance (see https://github.com/mxrch/penglab).
+This smol tool is aimed at anonymizing hashes files for offline but online cracking like Google Collab for instance (see https://github.com/ShutdownRepo/google-colab-hashcat).
 
 This is how it's supposed to be installed
 
