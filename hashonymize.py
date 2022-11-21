@@ -1,5 +1,7 @@
-import argparse
+#!/usr/bin/env python3
+# Author: Charlie BROMBERG (Shutdown - @_nwodtuhs)
 
+import argparse
 
 class Logger:
     def __init__(self, verbosity=0, quiet=False):
